@@ -1,2 +1,2 @@
-# JoeGold
-protoypes
+# joe-g-gold
+prototypes
